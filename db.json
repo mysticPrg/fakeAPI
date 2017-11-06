@@ -4,13 +4,13 @@
 			"id": 0,
 			"title": "title 0",
 			"content": "content 0",
-			"author": "author 0",
+			"author": "author 0"
 		},
 		{
 			"id": 1,
 			"title": "title 1",
 			"content": "content 1",
-			"author": "author 1",
+			"author": "author 1"
 		}
 	],
 	"member": [
