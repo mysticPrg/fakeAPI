@@ -2,15 +2,33 @@
 	"seminar": [
 		{
 			"id": 0,
-			"title": "title 0",
-			"content": "content 0",
-			"author": "author 0"
+			"title": "HTML",
+			"content": "HTML",
+			"author": "GD"
 		},
 		{
 			"id": 1,
-			"title": "title 1",
-			"content": "content 1",
-			"author": "author 1"
+			"title": "CSS 정의",
+			"content": "CSS 정의",
+			"author": "Yogae"
+		},
+		{
+			"id": 2,
+			"title": "Event",
+			"content": "Event",
+			"author": "JK.Kim"
+		},
+		{
+			"id": 3,
+			"title": "JavaScript Basic",
+			"content": "JavaScript Basic",
+			"author": "Teddy"
+		},
+		{
+			"id": 4,
+			"title": "웹 프로젝트 기본 구성",
+			"content": "웹 프로젝트 기본 구성",
+			"author": "Yogae"
 		}
 	],
 	"member": [
